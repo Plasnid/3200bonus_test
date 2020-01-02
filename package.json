@@ -1,0 +1,23 @@
+{
+  "name": "3200bonus_test",
+  "version": "1.0.0",
+  "description": "bonus test fo 3200",
+  "main": "test.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/3200bonus_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/3200bonus_test/issues"
+  },
+  "homepage": "https://github.com/Plasnid/3200bonus_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
