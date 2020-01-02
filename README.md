@@ -1,2 +1,2 @@
 # 3200bonus_test
-bonus test fo 3200
+bonus test for 3200
